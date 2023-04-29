@@ -79,11 +79,11 @@ Stretch Features:
 
 Required Feature
 
-[x] **Recycler view off all the food items stored in api database**
+- **Recycler view off all the food items stored in api database**
   - => **Displays the image of the food**
   - => **Displays the name**
   - => **Can be clicked on**
-[x] **Click's on a certain food item while scrolling through recycler view**
+- **Click's on a certain food item while scrolling through recycler view**
   - => **Displays the image of the food**
   - => **Displays the the nutrion/macros of chosen item**
 - **Uses the search bar (text entry) providing the chosen food item**
