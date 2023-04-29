@@ -36,7 +36,9 @@ The following REQUIRED files are included:
   - [X] App Spec (Milestone 1)
   - [X] Checked off 2+ completed features
   - [X] 2+ GIFs of build progress
-  
+ 
+![3Qn5_3nX](https://user-images.githubusercontent.com/71582315/235289408-7622386a-bca0-40ca-8ca5-d6f631faee24.gif)
+
 ![Presentation](https://user-images.githubusercontent.com/71582315/235289379-b6013b9e-f620-4965-a995-876e0cde7669.gif)
 
 - [ ] Our 🎥 Demo Video
