@@ -52,9 +52,11 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZGdMcSD6ej8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-VIDEO created with **ScreenToGif**
+https://user-images.githubusercontent.com/100373921/235387350-dfd12bc0-1f6c-4e20-9ae5-1a9df5cc6739.mp4
+
+
+VIDEO created with **OBS**
 
 ## Notes
 
