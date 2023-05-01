@@ -41,8 +41,8 @@ The following REQUIRED files are included:
 
 ![Presentation](https://user-images.githubusercontent.com/71582315/235289379-b6013b9e-f620-4965-a995-876e0cde7669.gif)
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [x] Our 🎥 Demo Video
+  - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
